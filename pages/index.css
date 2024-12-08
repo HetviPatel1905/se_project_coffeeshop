@@ -142,8 +142,15 @@
   line-height: 30px;
 }
 
+.recipes__iframe {
+  width: 480px;
+  height: 273px;
+  border: 0;
+}
+
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+  margin-top: 24px 0 0;
 }
 
