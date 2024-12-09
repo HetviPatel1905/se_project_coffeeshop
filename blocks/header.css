@@ -10,6 +10,7 @@
   background-repeat: no-repeat;
   position: relative;
   background-color: #ffffff;
+  z-index: 1;
 }
 
 .header__image {
@@ -18,6 +19,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__title {
