@@ -1,5 +1,5 @@
 .footer {
-  background: linear-gradient(180deg, #0A2850 0%, #071931 100%);
+  background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
   color: #fff;
   padding: 60px 80px;
 }
@@ -15,7 +15,7 @@
 }
 
 .footer__social-heading {
-  font-family: "Inter", "Arial", sans-serif;;
+  font-family: "Inter", "Arial", sans-serif;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
@@ -37,24 +37,23 @@
   margin-right: 10px;
 }
 
-
 .footer__social-link {
   text-decoration: none;
   color: #fff;
-  font-family: "Inter", "Arial", sans-serif;;
+  font-family: "Inter", "Arial", sans-serif;
   font-size: 16px;
   line-height: 20px;
   display: flex;
   align-items: center;
+  transition: opacity 0.3s;
 }
 
 .footer__social-link:hover {
   opacity: 0.7;
-  transition: opacity 0.3s;
 }
 
 .footer__copyright {
-  font-family: "Inter", "Arial", sans-serif;;
+  font-family: "Inter", "Arial", sans-serif;
   font-size: 16px;
   line-height: 20px;
   margin: 108px 0 0;

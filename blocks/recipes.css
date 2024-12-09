@@ -6,7 +6,7 @@
   background-position: center;
   background-size: cover;
   margin: 0;
-  padding: 100px 80px 215px ;
+  padding: 100px 80px 215px;
 }
 
 .recipes__title {
@@ -35,6 +35,8 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 0;
+  padding: 0;
 }
 
 .recipes__iframe {
@@ -46,4 +48,6 @@
 .recipes__video-caption {
   display: flex;
   justify-content: space-between;
+  padding: 0;
+  margin: 0;
 }

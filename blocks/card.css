@@ -1,7 +1,6 @@
 .card {
   width: 540px;
   margin: 0;
-  width: 640px;
 }
 
 .card__title {
@@ -30,5 +29,5 @@
 
 .card__list-divider {
   flex-grow: 1;
-  border-bottom: 1px solid black ;
+  border-bottom: 1px solid black;
 }

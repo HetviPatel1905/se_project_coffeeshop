@@ -6,7 +6,7 @@
 .nav__logo {
   position: relative;
   left: -50px;
-  height: 39px ;
+  height: 39px;
   width: 105px;
 }
 
@@ -26,9 +26,9 @@
   text-decoration: none;
   color: #000000;
   cursor: pointer;
+  transition: opacity 0.3s;
 }
 
 .nav__link:hover {
   opacity: 0.5;
-  transition: opacity 0.3s;
 }
