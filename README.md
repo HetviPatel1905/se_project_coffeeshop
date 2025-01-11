@@ -20,4 +20,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 This webpage is deployed to Github Pages.
 
 - Deployment Link:
-  [link]https://hetvipatel1905.github.io/se_project_spots/
+  [link](https://github.com/HetviPatel1905/se_project_coffeeshop/tree/main)
