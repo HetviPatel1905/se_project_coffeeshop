@@ -11,6 +11,13 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## Images
 
-Add your ideas here :)
+- link for images = ![Alt text](./images/)
+
+## Deployment
+
+This webpage is deployed to Github Pages.
+
+- Deployment Link:
+  [link]https://hetvipatel1905.github.io/se_project_spots/
